@@ -4,5 +4,6 @@
 
 # Dynamic plugins .dll
 bin/
-obj/
+/obj
 .vs/
+*.cache
