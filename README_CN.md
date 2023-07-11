@@ -4,5 +4,7 @@
 ## 使用方法
 
 ```c#
+using Delete;
+
 DeleteFile.Delete("文件名或者文件夹名")
 ```
